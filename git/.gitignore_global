@@ -172,3 +172,6 @@ src/test/resources/PL_File_Template.xlsx
 
 #NVM
 .nvmrc
+
+#Local pb test requests for skyscanner code base
+local1.pb

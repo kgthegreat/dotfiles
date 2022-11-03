@@ -1,12 +1,6 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/kgthegreat/.oh-my-zsh
-export HOMEBREW_GITHUB_API_TOKEN=12df28992d020c9224394b4e652228a31a7f2264
-export JAVA_HOME=`/usr/libexec/java_home`
-export MULE_HOME=/Users/kgthegreat/installs/mule-standalone-3.5.0
+export ZSH=/Users/kumargaurav/.oh-my-zsh
 export PATH="/usr/local/sbin:$PATH"
-#export GROOVY_HOME=/usr/local/opt/groovy/libexec
-#export GRAILS_HOME=/usr/local/opt/grails/libexec
-#/Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
