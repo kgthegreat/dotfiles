@@ -1,0 +1,30 @@
+# emacs related
+alias ed="emacs --daemon"
+alias ec="emacsclient -t"
+alias ek="emacsclient -e '(kill-emacs)'"
+
+# zsh related
+alias zl="source ~/.zshrc"
+
+alias pubsetup="ga _posts/2015-09-19-dev-setup-osx.md && gcmsg 'Updated post' && ggpush"
+alias pubemacs="ga _posts/2015-09-20-towards-a-better-emacs.md && gcmsg 'Updated post' && ggpush"
+
+# ruby related
+
+# rails related
+alias r="rails"
+alias rs="rails server"
+alias rr="rails routes"
+
+alias rg="rails generate"
+alias rgc="rails generate controller"
+alias rgm="rails generate migration"
+alias rgs="rails generate scaffold"
+
+alias rdm="rails db:migrate"
+
+# Golang Buffalo Related
+alias b="buffalo"
+alias bd="buffalo dev"
+alias br="buffalo routes"
+alias bgen="buffalo g"
