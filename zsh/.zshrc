@@ -10,19 +10,7 @@ export GOPATH=$HOME/code/go
 export GOROOT=/usr/local/go
 export PATH=$PATH:$GOPATH/bin
 # all env for sensible
-export SESSION_KEY="axdaskdhasdhgsajdzasdsadksbkdhasidoajsdousdasw"
-export TEMPLATES_DIR="templates"
-export STATIC_ASSETS_DIR="static"
-export TOKEN_FILE_PATH_NAME="token.json"
-export ROOT_KEYWORD_FILE_PATH_NAME="keyword.json"
-export TEMPLATE_KEYWORD_FILE_PATH_NAME="keyword_template.json"
-export ADMIN_KEYWORD_FILE_PATH_NAME="keyword_kgthegreat.json"
-export BASE_DIR=""
-export APP_DATA_DIR="/Users/kumargaurav/data"
-export DOMAIN_NAME="localhost:8087"
-export DOMAIN_NAME="localhost:8087"
-export MEETEFFECTIVE_CONFIG_FILEPATH=/Users/kumargaurav/code/go/src/github.com/kgthegreat/meeteffective/config/app.json
-export CH5F_CONFIG_FILEPATH=/Users/kumargaurav/code/go/src/github.com/kgthegreat/ch5f/config/app.json
+
 
 # for whatisbigger
 export DATA_DIR="data"
